@@ -4,3 +4,4 @@ transformers
 gunicorn
 sentencepiece
 huggingface_hub
+sacremoses
